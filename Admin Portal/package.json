@@ -1,0 +1,22 @@
+{
+  "name": "admin-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^6.0.2",
+    "cypress": "^13.13.3",
+    "cypress-dotenv": "^2.0.0",
+    "cypress-fill-command": "^1.0.2",
+    "webpack": "^5.93.0"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.2"
+  }
+}

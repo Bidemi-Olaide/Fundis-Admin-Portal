@@ -1,0 +1,24 @@
+{
+  "firstNameField" : "input[name='firstName']",
+  "lastNameField" : "input[name='lastName']",
+  "emailAddressField" : "input[name='email']",
+  "signInButton" : "button[value='Sign In']",
+  "phoneField"   : "input[type='tel']",
+  "passwordField" : "input[name='password']",
+  "confirmPasswordField" : "input[name='confirmPassword']",
+  "submitButton"  : "button[type='submit']",
+  "adminHeader" : ".MuiTypography-root.MuiTypography-h3.css-1j0u4s3",
+  "phoneButton"   : "input[name='radio-buttons-group'][value='phone']",
+  "adminDashboard" : "h3.MuiTypography-root.MuiTypography-h5.css-1d4e00g",
+  "requestIcons" : "h4.MuiTypography-root.MuiTypography-h5.css-s0kbts",
+  "requestTable" : ".MuiDataGrid-root",
+  "requestTab"   : ".MuiTypography-root",
+  "header" : "h5.MuiTypography-root",
+  "exportTab"     : "button.MuiButton-root",
+  "jobTitle"      :  "div.MuiDataGrid-columnHeaderTitle",
+  "eachJob"    :  "div.MuiDataGrid-row.MuiDataGrid-row--lastVisible",
+  "popUpDetails" : "div.MuiBox-root",
+  "errorMessage" :  ".MuiAlert-message.css-acap47-MuiAlert-message",
+  "selectEachRequest" : "body > div:nth-child(2) > main:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)"   
+
+}
